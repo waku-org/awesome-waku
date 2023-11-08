@@ -23,6 +23,10 @@ This repository contains a community-curated list of everything related to Waku 
 - [TheGraph](TheGraph)
 - [@XMTP](@XMTP)
 
+## Community DevTools / Libraries
+
+- [Waku dispatcher](https://github.com/vpavlin/waku-dispatcher)
+
 ## Hackathon Projects
 
 - [Beccamose - Wallet to wallet private location sharing](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clngpzve100vwwu01gfect9sw/idea)

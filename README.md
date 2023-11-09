@@ -4,15 +4,24 @@ This repository contains a community-curated list of everything related to Waku 
 
 ## Workshops & Tutorials
 
+### 2023
+
+- [You Have Nothing to Hide! @ web3privacy / ETHRome](https://www.youtube.com/watch?v=OLFDe1O2r-A)
 - [Running your waku node @ Birth of Netowork State](https://www.youtube.com/watch?v=_qjKiy_epSE)
 - [Waku Workshop @ Birth of Network State: Getting Started with Waku](https://youtu.be/dMxs5GcbgG4)
 - [Hashing it Out: Decentralised Messaging](https://youtu.be/vmx_oOb2On0)
+
+### 2022
+
 - [Using ZKP for Better p2p Messaging with Waku @ DevCon Bogota](https://youtu.be/eJwX1JpcKQk)
 - [How to Ethically Build Public Good Infrastructure](https://youtu.be/yi7nS0g0Yno)
 - [Building Privacy-Protecting Infrastructure](https://youtu.be/CW1DYJifdhs)
 - [Secureum TrustX - Waku: Enabling a New Dimension for DApps](https://youtu.be/GXU5Fd6gMVw)
 - [Waku: Enabling a New Dimension for DApps](https://youtu.be/OdXtMD-hgdg)
 - [The Next Level of Decentralisation Messaging in Web3](https://youtu.be/1QjxqrLO8WA)
+
+### 2021
+
 - [Build with Waku & DappConnect](https://youtu.be/ooRyn4aXsrM)
 - [DappConnect: Enabling Decentralised Communications Using Waku](https://youtu.be/rQOp3qoDF0g)
 
@@ -25,7 +34,7 @@ This repository contains a community-curated list of everything related to Waku 
 
 ## Community DevTools / Libraries
 
-- [Waku dispatcher](https://github.com/vpavlin/waku-dispatcher)
+- [Waku Dispatcher](https://github.com/vpavlin/waku-dispatcher)
 
 ## Hackathon Projects
 

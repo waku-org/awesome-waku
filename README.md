@@ -47,3 +47,11 @@ This repository contains a community-curated list of everything related to Waku 
 - [Private Mafia Game - the social deduction party game. Enhanced by Web3 Privacy, secure communication and hackathon logic](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clnghmvg400rpye01v6ik71le/idea)
 - [Quo-Roma - Empowering charities through DAOs and NFTs. Join, fund, chat, vote, and make a global impact with transparency and privacy—a new way to engage in causes you care about.](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clnfs4sq800bzy90134ygt0rz/idea)
 - [YourAssetYourChain - You have complete right to choose your chain/address/asset that you want](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng992ho00pky90145t5u8xm/idea)
+
+## Waku Bounties
+
+- **[Memeboard](https://github.com/waku-org/bounties/issues/1)**
+  - [Code](https://github.com/b4s36t4/waku-meme)
+- **[Bridge Token Approval](https://github.com/waku-org/bounties/issues/15)**
+  - [Code](https://github.com/5war00p/bridge-token-approvals)
+  - [Blog](https://medium.com/@5war00p/the-intro-119a57ddb30b)

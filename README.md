@@ -34,6 +34,14 @@ This repository contains a community-curated list of everything related to Waku 
 
 - [Waku Dispatcher](https://github.com/vpavlin/waku-dispatcher)
 
+## Waku Bounties
+
+- **[Memeboard](https://github.com/waku-org/bounties/issues/1)**
+  - [Code](https://github.com/b4s36t4/waku-meme)
+- **[Bridge Token Approval](https://github.com/waku-org/bounties/issues/15)**
+  - [Code](https://github.com/5war00p/bridge-token-approvals)
+  - [Blog](https://medium.com/@5war00p/the-intro-119a57ddb30b)
+
 ## Hackathon Projects
 
 - [Beccamose](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clngpzve100vwwu01gfect9sw/idea) - Wallet to wallet private location sharing

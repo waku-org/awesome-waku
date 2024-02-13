@@ -8,6 +8,14 @@ This repository contains a community-curated list of everything related to Waku 
 - [Running your waku node @ Birth of Netowork State](https://www.youtube.com/watch?v=_qjKiy_epSE)
 - [Waku Workshop @ Birth of Network State: Getting Started with Waku](https://youtu.be/dMxs5GcbgG4)
 - [Hashing it Out: Decentralised Messaging](https://youtu.be/vmx_oOb2On0)
+- [ProgCrypto : Using RLN in a Peer to Peer network](https://youtu.be/7xDxv8F70Jg)
+- [Leveraging Waku for Decentralised communications in MPC-TSS](https://youtu.be/zM0jAuuZ2_Q?feature=shared)
+- [ETHRome : Uncompromising web3 communication at scale with Waku](https://www.youtube.com/watch?v=ucMbhppjNpg)
+- [ETHRome : Operating your own Waku node](https://www.youtube.com/watch?v=A6AIXtntfN8)
+- [Libp2pDay : Web3 communications with Waku and Libp2p](https://youtu.be/AkAFLZdxCCc?feature=shared)
+- [ETHGlobal Instanbul : Building with Waku workshop](https://www.youtube.com/watch?v=xLVc7hDFA-w)
+- [ETHGlobal India : Building with Waku workshop](https://www.youtube.com/watch?v=O6dnaVQIjO8)
+
 
 ### 2022
 

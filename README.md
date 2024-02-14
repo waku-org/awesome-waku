@@ -1,4 +1,4 @@
-This repository contains a community-curated list of everything related to Waku and its ecosystem. If you wish to share a tutorial or showcase your project - create and PR and be on the limelight within our community.
+This repository contains a community-curated list of everything related to Waku and its ecosystem. If you wish to share a tutorial or showcase your project - create and PR and be in the limelight within our community.
 
 ## Workshops & Tutorials
 

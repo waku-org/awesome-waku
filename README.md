@@ -5,7 +5,7 @@ This repository contains a community-curated list of everything related to Waku 
 ### 2023
 
 - [You Have Nothing to Hide! @ web3privacy / ETHRome](https://www.youtube.com/watch?v=OLFDe1O2r-A)
-- [Running your waku node @ Birth of Netowork State](https://www.youtube.com/watch?v=_qjKiy_epSE)
+- [Running your waku node @ Birth of Network State](https://www.youtube.com/watch?v=_qjKiy_epSE)
 - [Waku Workshop @ Birth of Network State: Getting Started with Waku](https://youtu.be/dMxs5GcbgG4)
 - [Hashing it Out: Decentralised Messaging](https://youtu.be/vmx_oOb2On0)
 - [ProgCrypto : Using RLN in a Peer to Peer network](https://youtu.be/7xDxv8F70Jg)

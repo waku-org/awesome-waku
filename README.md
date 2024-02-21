@@ -22,7 +22,7 @@ This repository contains a community-curated list of everything related to Waku 
 - [Using ZKP for Better p2p Messaging with Waku @ DevCon Bogota](https://youtu.be/eJwX1JpcKQk)
 - [How to Ethically Build Public Good Infrastructure](https://youtu.be/yi7nS0g0Yno)
 - [Building Privacy-Protecting Infrastructure](https://youtu.be/CW1DYJifdhs)
-- [Secureum TrustX - Waku: Enabling a New Dimension for DApps](https://youtu.be/GXU5Fd6gMVw)
+- [Secureum TrustX - Waku: Enabling a New Dimension for DApps](https://youtu.be/GXU5Fd6gMVw?t=21417)
 - [Waku: Enabling a New Dimension for DApps](https://youtu.be/OdXtMD-hgdg)
 - [The Next Level of Decentralisation Messaging in Web3](https://youtu.be/1QjxqrLO8WA)
 

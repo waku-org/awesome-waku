@@ -34,9 +34,10 @@ This repository contains a community-curated list of everything related to Waku 
 ## Ecosystem Projects
 
 - [Status](https://status.im/)
-- [Railgun](https://www.railgun.org/)
+- [RAILGUN](https://www.railgun.org/)
 - [TheGraph](https://thegraph.com/)
 - [@XMTP](https://xmtp.org/)
+- [Portrait.so](https://portrait.so)
 
 ## Community DevTools / Libraries
 
